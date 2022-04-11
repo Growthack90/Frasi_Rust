@@ -1,9 +1,6 @@
 # GUESSING_GAME
 
-Il gioco restituisce la stringa "You win!" se il numero random scelto dal programma corrisponde a quello inserito dall'utente.
-
-Il progetto è stato realizzato grazie al tutorial della guida di Microsoft disponibile al seguente link:
-https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+Progetto realizzato con il linguaggio RUST, grazie alla guida tutorial a questo [link](https://carlomilanesi.github.io/linguaggio-rust/crates-and-modules.html#importare-modulo-usando-use).
 
 Lets try it!
 
